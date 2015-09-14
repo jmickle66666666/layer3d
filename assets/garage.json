@@ -1,0 +1,7 @@
+{
+    width : 117,
+    height : 66,
+    spread : 3,
+    layers : [0, 1, 1, 1, 2, 3, 3, 2, 3, 3, 2, 4, 4, 5, 6, 6, 6, 7],
+    texture : "garage.png"
+}
