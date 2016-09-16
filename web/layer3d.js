@@ -1,10 +1,10 @@
 console.log('layer3d.js');
 
-// getLayers("garage.png",117,66, function (layers) {
+getLayers("garage.png",117,66, function (layers) {
 
-    // drawIt(layers[0],0.1);
+    drawIt(layers[0],0.1);
 
-// });
+});
 
 function drawIt(canvas,dataURL,angle){
   if(canvas.getContext){
