@@ -1,6 +1,6 @@
 console.log('layer3d.js');
 
-getLayers("garage.png",117,66, function (layers) {
+getLayers("web/garage.png",117,66, function (layers) {
 
     drawIt(layers[0],0.1);
 
